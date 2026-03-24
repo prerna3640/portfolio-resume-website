@@ -1,5 +1,5 @@
 import React from "react";
-
+//css
 const About = () => {
   return (
     <section id="about" style={styles.wrapper}>
@@ -42,3 +42,4 @@ const styles = {
 };
 
 export default About;
+
